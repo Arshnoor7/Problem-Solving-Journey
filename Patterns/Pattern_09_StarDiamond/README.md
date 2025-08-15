@@ -1,4 +1,4 @@
-<img width="459" height="701" alt="image" src="https://github.com/user-attachments/assets/6947e9af-48d1-4b3c-97c7-97940fd75f9e" /># Pattern 02 - N-Star Diamond
+# Pattern 02 - N-Star Diamond
 
 ## 📌 Problem Statement
 Given an integer `N`, print a diamond pattern made of stars (`*`) with `N` rows in the upper half and `N` rows in the lower half.

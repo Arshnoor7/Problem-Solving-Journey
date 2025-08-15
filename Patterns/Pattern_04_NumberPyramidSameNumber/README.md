@@ -1,6 +1,6 @@
 # Pattern_04_Number_Pyramid_Same_Number
 
-🔗 **Problem Link:** [Pattern 4 - GeeksforGeeks](https://www.geeksforgeeks.org/problems/number-pattern/1)
+🔗 **Problem Link:** [Pattern 4 - GeeksforGeeks](https://www.geeksforgeeks.org/problems/triangle-number-1661428795/1)
 
 ---
 

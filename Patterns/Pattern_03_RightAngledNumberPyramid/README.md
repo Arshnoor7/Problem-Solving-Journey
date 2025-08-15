@@ -54,4 +54,4 @@ You don't need to input anything. Complete the function `printTriangle()` which 
 ---
 
 ## 📌 Constraints
-1 <= n <= 1000
+1 <= n <= 100

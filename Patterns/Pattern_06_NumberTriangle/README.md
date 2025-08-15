@@ -47,4 +47,7 @@ O(n²)
 ## Expected Auxiliary Space:
 O(1)
 
+🔗 **Problem Link:** [Pattern 6 - GeeksforGeeks](https://www.geeksforgeeks.org/problems/triangle-number-1661489840/1)
+
+
 ---

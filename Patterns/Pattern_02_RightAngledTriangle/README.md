@@ -21,4 +21,4 @@ You don't need to input anything. Complete the function `printTriangle()` which 
 ## 📌 Constraints
 1<= n <= 1000
 
-🔗 **Problem Link:** [Pattern 2 - GeeksforGeeks](https://www.geeksforgeeks.org/problems/triangle-pattern/1?utm_medium=collab_striver_ytdescription&utm_campaign=pattern_2&utm_source=youtube)
+🔗 **Problem Link:** [Pattern 2 - GeeksforGeeks]([https://www.geeksforgeeks.org/problems/triangle-pattern/1?utm_medium=collab_striver_ytdescription&utm_campaign=pattern_2&utm_source=youtube))

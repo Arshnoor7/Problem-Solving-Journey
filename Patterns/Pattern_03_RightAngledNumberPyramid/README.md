@@ -36,7 +36,7 @@ n = 5
 ---
 
 ## 🔗 Problem Link
-[Pattern 3 - GeeksforGeeks](https://www.geeksforgeeks.org/problems/pattern-3/1)
+[Pattern 3 - GeeksforGeeks](https://www.geeksforgeeks.org/problems/triangle-number/1)
 
 ---
 

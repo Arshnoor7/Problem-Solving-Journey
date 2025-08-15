@@ -30,6 +30,7 @@ Geek loves patterns. Given an integer `n`, print an inverted triangle star patte
 - `1 ≤ n ≤ 100`
 
 ---
+🔗 **Problem Link:** [Pattern 5 - GeeksforGeeks](https://www.geeksforgeeks.org/problems/triangle-pattern/1)
 
 ## 🖋 Author
 - **Name:** Arshnoor

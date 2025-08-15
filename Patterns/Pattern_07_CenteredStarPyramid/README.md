@@ -28,3 +28,7 @@ O(n^2)
 
 ## Expected Auxiliary Space
 O(1)
+
+🔗 **Problem Link:** [Pattern 7 - GeeksforGeeks]([https://www.geeksforgeeks.org/print-pyramid-pattern/](https://www.geeksforgeeks.org/problems/triangle-pattern-1661492263/1))
+
+
